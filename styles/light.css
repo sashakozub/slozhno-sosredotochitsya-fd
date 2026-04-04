@@ -40,7 +40,7 @@
     --text-color: #353430;
     --button-color: #353430;
     --link-shadow-color: #ff8dcb;
-   --button-hover-color: rgba(53, 52, 48, 0.4);
+    --button-hover-color: rgba(53, 52, 48, 0.4);
   }
 
   :root:not(.theme-dark) .rec {
